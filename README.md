@@ -17,17 +17,11 @@ This project scrapes FIFA player stats, match data, and team performance from FI
 ## Installation
 
 1. Clone the repo:
+
    ```bash
    git clone https://github.com/aswin1818/web-scrapper.git
    cd web-scraping
-   Install dependencies:
-   pip install -r requirements.txt
-   Run the scraper:
-   python scraper.py
-   Folder Structure
-   ```
 
-fifa-stats-web-scraping/
-├── data/ # Scraped data
-├── scraper.py # Scraping script
-└── README.md # Documentation
+   Run the scraper:
+   python3 web-scraper.py
+   ```
