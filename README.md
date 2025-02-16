@@ -11,7 +11,7 @@ This project scrapes FIFA player stats, match data, and team performance from FI
 
 ## Requirements
 
-- Python 3.x
+- Python 3.5+
 - Libraries: BeautifulSoup, Requests, Pandas
 
 ## Installation
